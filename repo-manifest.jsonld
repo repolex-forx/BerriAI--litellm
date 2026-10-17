@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/BerriAI/litellm/commit/ae6f7f661355d0764031678d014c29f765897b68",
       "git:hexsha": "ae6f7f661355d0764031678d014c29f765897b68",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/BerriAI/litellm/commit/540dc8e11b5a7a9428142cf5899c26d2060595fc",
